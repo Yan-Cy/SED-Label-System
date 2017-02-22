@@ -57,7 +57,7 @@ A system in Qt  to label articulations of human pose for TRECVid SED task.
 
 ## Example
 
-![1F49A8CC-8352-4E7B-A969-15A07E48A786](../../Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/997716193/QQ/Temp.db/1F49A8CC-8352-4E7B-A969-15A07E48A786.png)
+![Example](example.png))
 
 ## Author
 
